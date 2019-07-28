@@ -3,7 +3,8 @@
 #GUNAKAN TOOLS UNTUK KEBAIKAN JANGAN DISALAH GUNAKAN :)
 troll(){
     clear
-    sleep 0.03                                                                                           echo "      _____________________________________" | lolcat
+    sleep 0.03                                                                                           
+    echo "      _____________________________________" | lolcat
     sleep 0.03
     echo "    /      \                                \ " | lolcat
     sleep 0.03
@@ -13,10 +14,13 @@ troll(){
     sleep 0.03
     echo "                            !        !      !   " | lolcat
     sleep 0.03
-    echo "                             \_____/  \____/   " | lolcat                                      sleep 0.03
-    echo " ============================="          | lolcat                                                      sleep 2
+    echo "                             \_____/  \____/   " | lolcat                                      
+    sleep 0.03
+    echo " ============================="          | lolcat                                                      
+    sleep 2
     echo " ==      KNTL Project      ==" | lolcat
-    sleep 0.7                                                                                            echo " =============================" | lolcat
+    sleep 0.7                                                                                            
+    echo " =============================" | lolcat
     }
     load(){
     echo -e "\n"
